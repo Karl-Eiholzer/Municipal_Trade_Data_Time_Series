@@ -12,9 +12,7 @@ This Repository is divided into sub folders:
 
 Here is an image of the flow:
 
-Step 1: Download   ===>  Step 2a: Set_up         ==\\
-                                                    ===>  Step 3: Clean_and_Enrich
-                         Step 2b: Download_More  ==//
+![MSRB Data Workflow](Documentation/MSRB Data Workflow.png)
 
  By exporting to .csv files after each step, a user may use a few steps as he or she wants and go a different direction.
 
