@@ -1,7 +1,7 @@
 ## Municipal Market Data
 ### Monthly Trade Data Statistics
 
-#### Contains R Scripts needed to download and perform initial structuring and cleaning of MS Excel spreadsheets published by Municipal Securities Rulemaking Board. This unique set of spreadsheets contain transaction volume published continuously since 2000.
+### Contains R Scripts needed to download and perform initial structuring and cleaning of MS Excel spreadsheets published by Municipal Securities Rulemaking Board. This unique set of spreadsheets contain transaction volume published continuously since 2000.
 
 This Repository is divided into sub folders:
  - Documentation - reference material to understand the data
@@ -20,6 +20,6 @@ Step 1: Download   ===>  Step 2a: Set_up         ==\\
 
 
 
-### Change History
+#### Change History
 
 27 AUG 2016 - K Eiholzer       - Described plan for repository. Partially _aspirational_, since much of the work is not completed.
